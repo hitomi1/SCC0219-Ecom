@@ -4,9 +4,9 @@
 
 |        Nome               |    NUSP   |
 |:-------------------------:|:---------:|
+|     Jorge Luiz Franco     |  13695091 | 
 |  Nome Sobrenome  |  NUSP  | 
-|  Nome Sobrenome  |  NUSP  | 
-|  Gustavo Hitomi da Silva  |  11801202  | 
+|  Gustavo Hitomi da Silva  |  11801202 | 
 
 ### Requisitos
 
