@@ -50,7 +50,7 @@ _Figura 4: Tela de Signin sobreposta a tela de Login._
 - [**Sobre Nos**](sobre-nos.html): tela com um texto contendo o resumo da história da marca, assim como meios de contato no final.
 
 ![about_us](/mockups/imgs/about_us.jpeg)
-_Figura 5:tela "sobre nós"
+\_Figura 5:tela "sobre nós"
 
 - [**Produtos**](produtos.html): página lista produtos ordenados por tipo e seus respectivos preços. No topo há um slider que permite pular para uma sessão específica se o cliente assim desejar.
 
