@@ -50,7 +50,7 @@ _Figura 4: Tela de Signin sobreposta a tela de Login._
 - [**Sobre Nos**](sobre-nos.html): tela com um texto contendo o resumo da história da marca, assim como meios de contato no final.
 
 ![about_us](/mockups/imgs/about_us.jpeg)
-\_Figura 5:tela "sobre nós"
+_Figura 5:tela "sobre nós"
 
 - [**Produtos**](produtos.html): página lista produtos ordenados por tipo e seus respectivos preços. No topo há um slider que permite pular para uma sessão específica se o cliente assim desejar.
 
@@ -58,27 +58,27 @@ _Figura 4: Tela de Signin sobreposta a tela de Login._
 
 O restante das telas necessárias para nossa aplicação, _Carrinho_, _Administrador_ e _Estoque_ foram projetadas com a ferramenta [_Figma_](https://www.figma.com/):
 
-- [**Carrinho**](https://www.figma.com/file/cm8SJWyryxJUZSV4lrHFSc/Mockup-Cart?node-id=0%3A1&t=FaCFQwI4LvOrOX23-1): Nesta tela, o usuário é capaz de visualizar a lista de produtos previamente adicionados ao carrinho, além de alterar a quantidade de produtos, remover itens do mesmo e especificar o tamanho do produto. Dessa forma, a página também oferece o custo de cada produto ($c_i = q_i . p_i$, onde $i$ é o produto, $q_i$ é a quantidade de produtos e $p_i$ é o preço unitário do produto) e o custo total da compra ($c_t = \sum c_i$, onde $c_t$ é o custo total). Assim, o usuário pode finalizar a sua compra através do botão _Proceed Purchase_, como pode ser visto na Figura 5:
+- [**Carrinho**](https://www.figma.com/file/cm8SJWyryxJUZSV4lrHFSc/Mockup-Cart?node-id=0%3A1&t=FaCFQwI4LvOrOX23-1): Nesta tela, o usuário é capaz de visualizar a lista de produtos previamente adicionados ao carrinho, além de alterar a quantidade de produtos, remover itens do mesmo e especificar o tamanho do produto. Dessa forma, a página também oferece o custo de cada produto ($c_i = q_i . p_i$, onde $i$ é o produto, $q_i$ é a quantidade de produtos e $p_i$ é o preço unitário do produto) e o custo total da compra ($c_t = \sum c_i$, onde $c_t$ é o custo total). Assim, o usuário pode finalizar a sua compra através do botão _Proceed Purchase_, como pode ser visto na Figura 6:
 
 ![mockup-carrinho](/mockups/imgs/Figma-Cart-Before.png)
-_Figura 5: Tela do carrinho da aplicação._
+_Figura 6: Tela do carrinho da aplicação._
 
-Clicando no botão _Proceed Purchase_, uma aba se abre (interatividade será escrita utilizando _JavaScript_) permitindo a finalização da compra, como mostrado na Figura 6:
+Clicando no botão _Proceed Purchase_, uma aba se abre (interatividade será escrita utilizando _JavaScript_) permitindo a finalização da compra, como mostrado na Figura 7:
 
 ![mockup-finaliza-comora](/mockups/imgs/Figma-Cart-After.png)
-_Figura 6: Aba sobreposta a tela do carrinho, para finalização da compra_
+_Figura 7: Aba sobreposta a tela do carrinho, para finalização da compra_
 
 Neste momento, será possível para o usuário indicar o número do cartão de crédito a ser utilizado e se há algum cupom de desconto a ser aplicado. O endereço de entrega será aquele cadastrado pelo usuário na hora do _Sign In_
 
 - [**Administrador**](https://www.figma.com/file/d6WGN3QafoTPK8CbOYUJjj/Painel-Adm?type=design&node-id=107-2&t=ylyrqMCiOMWfl3zn-0): Nesta tela o usuário administrador poderá adicionar novos administradores, gerenciar produtos e verificar as finanças.
 
   ![mockup-administrador](/mockups/imgs/Figma-Adm.png)
-  _Figura 7: Tela principal do administrador com os menus de acesso as funcionalidades da plataforma_
+  _Figura 8: Tela principal do administrador com os menus de acesso as funcionalidades da plataforma_
 
 - [**Estoque**](https://www.figma.com/file/5vRyfJ9us3lTYCR29QypL3/Estoque?type=design&node-id=209-81&t=0pgWj1OKzqIM9aQ3-0): Nesta tela o usuário administrador poderá adicionar novos produtos, editar os produtos existentes e checar as quantidades e vendas de cada produto
 
   ![mockup-estoque](/mockups/imgs/Figma-Estoque.png)
-  _Figura 8: Tela do estoque_
+  _Figura 9: Tela do estoque_
 
 <!-- ### Comentarios Sobre o Código
 
