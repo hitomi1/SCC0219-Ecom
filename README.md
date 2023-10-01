@@ -5,7 +5,7 @@
 |        Nome               |    NUSP   |
 |:-------------------------:|:---------:|
 |     Jorge Luiz Franco     |  13695091 | 
-|  Nome Sobrenome  |  NUSP  | 
+|      Breno Rodrigues      |  11734142 |
 |  Gustavo Hitomi da Silva  |  11801202 | 
 
 ### Requisitos
