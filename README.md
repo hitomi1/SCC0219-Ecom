@@ -77,7 +77,7 @@ Neste momento, será possível para o usuário indicar o número do cartão de c
 
 - [**Estoque**]([https://www.figma.com/file/5vRyfJ9us3lTYCR29QypL3/Estoque?type=design&node-id=209-81&t=0pgWj1OKzqIM9aQ3-0](https://www.figma.com/file/jhhEMnWawVa7EOJ0gf4R7u/adm-estoque?type=design&node-id=0-1&mode=design&t=sHkdi1GUL0NWSYM0-0)): Nesta tela o usuário administrador poderá adicionar novos produtos, editar os produtos existentes e checar as quantidades e vendas de cada produto
 
-  ![mockup-estoque](/mockups/imgs/figma-admin-estoque.PNG)
+  ![mockup-estoque](/mockups/imgs/figma-adm-estoque.PNG)
   _Figura 9: Tela do estoque_
 
 <!-- ### Comentarios Sobre o Código
