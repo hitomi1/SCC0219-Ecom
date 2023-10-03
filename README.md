@@ -58,7 +58,7 @@ _Figura 5:tela "sobre nós"
 
 O restante das telas necessárias para nossa aplicação, _Carrinho_, _Administrador_ e _Estoque_ foram projetadas com a ferramenta [_Figma_](https://www.figma.com/):
 
-- [**Carrinho**](https://www.figma.com/file/cm8SJWyryxJUZSV4lrHFSc/Mockup-Cart?node-id=0%3A1&t=FaCFQwI4LvOrOX23-1](https://www.figma.com/file/OKp5DBelKJiXaI20pGlS6k/mockup-cart?type=design&node-id=0-1&mode=design&t=sQYg5PW8rMHzqWV7-0)): Nesta tela, o usuário é capaz de visualizar a lista de produtos previamente adicionados ao carrinho, além de alterar a quantidade de produtos, remover itens do mesmo e especificar o tamanho do produto. Dessa forma, a página também oferece o custo de cada produto ($c_i = q_i . p_i$, onde $i$ é o produto, $q_i$ é a quantidade de produtos e $p_i$ é o preço unitário do produto) e o custo total da compra ($c_t = \sum c_i$, onde $c_t$ é o custo total). Assim, o usuário pode finalizar a sua compra através do botão _Proceed Purchase_, como pode ser visto na Figura 6:
+- [**Carrinho**](https://www.figma.com/file/OKp5DBelKJiXaI20pGlS6k/mockup-cart?type=design&node-id=0-1&mode=design): Nesta tela, o usuário é capaz de visualizar a lista de produtos previamente adicionados ao carrinho, além de alterar a quantidade de produtos, remover itens do mesmo e especificar o tamanho do produto. Dessa forma, a página também oferece o custo de cada produto ($c_i = q_i . p_i$, onde $i$ é o produto, $q_i$ é a quantidade de produtos e $p_i$ é o preço unitário do produto) e o custo total da compra ($c_t = \sum c_i$, onde $c_t$ é o custo total). Assim, o usuário pode finalizar a sua compra através do botão _Proceed Purchase_, como pode ser visto na Figura 6:
 
 ![mockup-carrinho](/mockups/imgs/figma-cart.PNG)
 _Figura 6: Tela do carrinho da aplicação._
@@ -70,12 +70,12 @@ _Figura 7: Aba sobreposta a tela do carrinho, para finalização da compra_
 
 Neste momento, será possível para o usuário indicar o número do cartão de crédito a ser utilizado e se há algum cupom de desconto a ser aplicado. O endereço de entrega será aquele cadastrado pelo usuário na hora do _Sign In_
 
-- [**Administrador**](https://www.figma.com/file/d6WGN3QafoTPK8CbOYUJjj/Painel-Adm?type=design&node-id=107-2&t=ylyrqMCiOMWfl3zn-0](https://www.figma.com/file/JpbmmeiFT7enrAiG0Pqwbk/adm-page?type=design&node-id=0-1&mode=design&t=7Jc3nc6QSaGbyds8-0)): Nesta tela o usuário administrador poderá adicionar novos administradores, gerenciar produtos e verificar as finanças.
+- [**Administrador**](https://www.figma.com/file/JpbmmeiFT7enrAiG0Pqwbk/adm-page?type=design&node-id=0-1&mode=design&t=7Jc3nc6QSaGbyds8-0): Nesta tela o usuário administrador poderá adicionar novos administradores, gerenciar produtos e verificar as finanças.
 
   ![mockup-administrador](/mockups/imgs/figma-admin.PNG)
   _Figura 8: Tela principal do administrador com os menus de acesso as funcionalidades da plataforma_
 
-- [**Estoque**](https://www.figma.com/file/5vRyfJ9us3lTYCR29QypL3/Estoque?type=design&node-id=209-81&t=0pgWj1OKzqIM9aQ3-0](https://www.figma.com/file/jhhEMnWawVa7EOJ0gf4R7u/adm-estoque?type=design&node-id=0-1&mode=design&t=sHkdi1GUL0NWSYM0-0)): Nesta tela o usuário administrador poderá adicionar novos produtos, editar os produtos existentes e checar as quantidades e vendas de cada produto
+- [**Estoque**](https://www.figma.com/file/jhhEMnWawVa7EOJ0gf4R7u/adm-estoque?type=design&node-id=0-1&mode=design&t=sHkdi1GUL0NWSYM0-0): Nesta tela o usuário administrador poderá adicionar novos produtos, editar os produtos existentes e checar as quantidades e vendas de cada produto
 
   ![mockup-estoque](/mockups/imgs/figma-adm-estoque.PNG)
   _Figura 9: Tela do estoque_
