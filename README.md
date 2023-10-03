@@ -32,12 +32,12 @@ _Figura 1: Fluxograma da aplicação._
 
 Seguindo a ideia geral do fluxograma, as telas _Home-Page_, _Login/Signin_, _Sobre Nos_ e _Produtos_ foram projetadas através de _HTML5/CSS3_:
 
-- [**_Home-Page_**](index.html): tela inicial da nossa aplicação. Contém uma barra de navegação interativa capaz de realizar redirecionamentos para todas as telas existentes (exceto "Administrador" e "Estoque", as quais são exclusivas para administradores), uma seção Produtos, a qual apresenta as informações gerais dos tipos de produtos oferecidos pela loja, permitindo redirecionamento às partes específicas da tela "Produtos" correspondentes a cada tipo de produto, e uma seçao Marcas, contendo informações geriais sobre as marcas oferecidas pela nossa loja. A Figura 2 mostra situação atual da página em questão:
+- [**_Home-Page_**](/mockups/html/index.html): tela inicial da nossa aplicação. Contém uma barra de navegação interativa capaz de realizar redirecionamentos para todas as telas existentes (exceto "Administrador" e "Estoque", as quais são exclusivas para administradores), uma seção Produtos, a qual apresenta as informações gerais dos tipos de produtos oferecidos pela loja, permitindo redirecionamento às partes específicas da tela "Produtos" correspondentes a cada tipo de produto, e uma seçao Marcas, contendo informações geriais sobre as marcas oferecidas pela nossa loja. A Figura 2 mostra situação atual da página em questão:
 
 ![home-page](/mockups/imgs/home.PNG)
 _Figura 2: Home-Page da apliação._
 
-- [**_Login/Signin_**](login.html): tela minimalista que contém o necessário para o usuário realizar a operação de login e signin na aplicação, sendo a única página, até o momento, que contém código _JavaScript_. Inicialmente, o usuário se depara com os campos necessários para o _Login_ (_email_ e senha), um botão para realizar o _Login_ e outro para cadastrar um novo usuário, conforme visto na Figura 3:
+- [**_Login/Signin_**](/mockups/html/login.html): tela minimalista que contém o necessário para o usuário realizar a operação de login e signin na aplicação, sendo a única página, até o momento, que contém código _JavaScript_. Inicialmente, o usuário se depara com os campos necessários para o _Login_ (_email_ e senha), um botão para realizar o _Login_ e outro para cadastrar um novo usuário, conforme visto na Figura 3:
 
 ![login1](/mockups/imgs/login1.PNG)
 _Figura 3: Página de Login da aplicação._
@@ -47,12 +47,12 @@ Ao se clicar no botão "Create New Account", uma nova tela surge "acima" da tela
 ![login2](/mockups/imgs/login2.PNG)
 _Figura 4: Tela de Signin sobreposta a tela de Login._
 
-- [**Sobre Nos**](sobre-nos.html): tela com um texto contendo o resumo da história da marca, assim como meios de contato no final.
+- [**Sobre Nos**](/mockups/html/sobre-nos.html): tela com um texto contendo o resumo da história da marca, assim como meios de contato no final.
 
 ![about_us](/mockups/imgs/about-us.PNG)
 _Figura 5:tela "sobre nós"
 
-- [**Produtos**](produtos.html): página lista produtos ordenados por tipo e seus respectivos preços. No topo há um slider que permite pular para uma sessão específica se o cliente assim desejar.
+- [**Produtos**](/mockups/html/produtos.html): página lista produtos ordenados por tipo e seus respectivos preços. No topo há um slider que permite pular para uma sessão específica se o cliente assim desejar.
 
 ![produtos](/mockups/imgs/products.PNG)
 
