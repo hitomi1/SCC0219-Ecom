@@ -73,6 +73,7 @@ Neste momento, será possível para o usuário indicar o número do cartão de c
 - [**Administrador**](https://www.figma.com/file/JpbmmeiFT7enrAiG0Pqwbk/adm-page?type=design&node-id=0-1&mode=design&t=7Jc3nc6QSaGbyds8-0): Nesta tela o usuário administrador poderá adicionar novos administradores, gerenciar produtos e verificar as finanças.
 
   ![mockup-administrador](/mockups/imgs/figma-admin.PNG)
+  
   _Figura 8: Tela principal do administrador com os menus de acesso as funcionalidades da plataforma_
 
 - [**Estoque**](https://www.figma.com/file/jhhEMnWawVa7EOJ0gf4R7u/adm-estoque?type=design&node-id=0-1&mode=design&t=sHkdi1GUL0NWSYM0-0): Nesta tela o usuário administrador poderá adicionar novos produtos, editar os produtos existentes e checar as quantidades e vendas de cada produto
