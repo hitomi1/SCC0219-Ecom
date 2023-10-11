@@ -80,6 +80,7 @@ Neste momento, será possível para o usuário indicar o número do cartão de c
   ![mockup-estoque](/mockups/imgs/figma-adm-estoque.PNG)
   _Figura 9: Tela do estoque_
 
+
 <!-- ### Comentarios Sobre o Código
 
 - [Estilo das Telas](css): para facilitar o reuso de código, o arquivo [_style.css_](css/style.css) foi criado contendo o estilo dos elementos compartilhados, praticamente, por todas as telas da nossa aplicação, como o body, o header e o footer. Além disso, um ou mais arquivos _.css_ adicionais foram empregados para a estilização específica das telas, complementando aquela trazida pelo arquivo _style.css_. Como exemplo, a tela _Login/Signin_ conta com os arquivos [_login.css_](css/login.css) e [_signin.css_](css/signin.css) para estilização completa da página.
