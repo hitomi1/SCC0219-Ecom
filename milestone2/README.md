@@ -2,11 +2,11 @@
 
 ### Integrantes
 
-|        Nome               |    NUSP   |
-|:-------------------------:|:---------:|
-|   Henrique S. Marques     |  11815722 | 
-|   Gustavo Hitomi da Silva |  11801202 |
-|   Marcos P. N. Filho      |  11819063 | 
+|          Nome           |   NUSP   |
+| :---------------------: | :------: |
+|    Jorge Luiz Franco    | 13695091 |
+|     Breno Rodrigues     | 11734142 |
+| Gustavo Hitomi da Silva | 11801202 |
 
 ### Requisitos
 
@@ -50,12 +50,11 @@ _Figura 4: Tela de Signin sobreposta a tela de Login._
 - [**Sobre Nos**](sobre-nos.html): tela com um texto contendo o resumo da história da marca, assim como meios de contato no final.
 
 ![about_us](../Milestone1/Mockup/about_us.jpeg)
-_Figura 5:tela "sobre nós"
+\_Figura 5:tela "sobre nós"
 
 - [**Produtos**](produtos.html): página lista produtos ordenados por tipo e seus respectivos preços. No topo há um slider que permite pular para uma sessão específica se o cliente assim desejar.
 
 ![produtos](../Milestone1/Mockup/products.jpeg)
-
 
 O restante das telas necessárias para nossa aplicação, _Carrinho_, _Administrador_ e _Estoque_ foram projetadas com a ferramenta [_Figma_](https://www.figma.com/):
 
@@ -92,6 +91,7 @@ Ainda não temos um plano robusto para realização de testes da aplicação WEB
 ### Resultado dos Testes
 
 Por enquanto todos os testes foram feitos de forma manual na nossa aplicação, visto que os endpoints ainda não foram criados
+
 ### Como rodar?
 
 No diretório Milestone2 usar os seguintes comandos:
@@ -99,9 +99,11 @@ No diretório Milestone2 usar os seguintes comandos:
 `npm install`
 
 `npm start`
+
 ### Problemas Encontrados
 
 TODO: Criar a página admin e suas funções
+
 ### Comentarios
 
 O código foi todo produzido utilizando o bundle disponível pelo CRA em conjunto de alguns itens da MUI, no futuro pretendemos mudar toda a UI para o estilo Material
