@@ -1,7 +1,6 @@
 .coluna-imagem > img
 {
     width: 200px;
-    filter: invert(20%);
 }
 
 .coluna-texto > p

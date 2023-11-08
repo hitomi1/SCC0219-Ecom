@@ -12,9 +12,10 @@
     justify-items: center;
 }
 
-h3
-{
+h3 {
     font-size: 30px;
-    font-family: 'Rubik Pixels', cursive;
-    font-family: 'Sedgwick Ave Display', cursive;
+    font-family: 'Graduate', cursive;
+    text-align: center;
+    padding: 10px; 
+    background-color: gray; /* Define a cor de fundo para cinza */
 }

@@ -34,8 +34,8 @@ const Product = ({produto}) =>{
                     {imagem && <img src={imagem}></img>}
                 </div>
                 <div className="text">
-                    <p>i hate it here</p>
-                    <p>i want to diiiiie...</p>
+                    <p>Descrição 1</p>
+                    <p>Descrição 2</p>
                 </div>
             </div>
         </div>

@@ -8,9 +8,9 @@ const Footer = () =>
 (
     <footer>
         <div>
-            <p> Rua das Flores, 123 - Jardim das Borboletas </p>
-            <p> CEP: 13566-789, São Carlos - SP, Brazil </p>
-            <p> Phone: +55 (16) 998765-4321</p>
+            <p>Rua Ficticia, 123 - Bairro Ficticio</p>
+            <p>CEP: 13563-000, São Carlos - SP, Brazil</p>
+            <p>Phone: +55 (99) 12345-6789</p>
         </div>
 
         <div>

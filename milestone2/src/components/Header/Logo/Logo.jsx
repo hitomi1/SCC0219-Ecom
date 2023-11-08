@@ -1,7 +1,7 @@
 import React from "react";
 import './Logo.css'
 
-import logo from '../../../assets/Logo.jpg'
+import logo from '../../../assets/Logo.png'
 
 const Logo = ( {size} ) =>
 (  
