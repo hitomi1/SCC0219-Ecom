@@ -75,7 +75,7 @@ Neste momento, será possível para o usuário indicar o número do cartão de c
 
 ### Comentarios Sobre o Código
 
-- [Estilo das Telas](css): Para facilitar o reuso do código, foram criados componemtes na pasta de components.
+- Para facilitar o reuso do código, foram criados componemtes na pasta de components.
 
 ### Plano de Testes
 
