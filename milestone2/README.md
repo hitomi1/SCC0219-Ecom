@@ -87,7 +87,12 @@ Neste momento, será possível para o usuário indicar o número do cartão de c
 ### Plano de Testes
 
 Ainda não temos um plano robusto para realização de testes da aplicação WEB. Entretanto, conforme aprendido nas primeiras aulas do curso, consideramos que a ferramenta [_Insomnia_](https://insomnia.rest) pode ser bastante útil para realização de testes referentes às comunicações HTTP estabelecidas entre cliente e servidor.
-Os testes implementados até o momento foram os de adicionar e remover os itens do carrinho, finalizar compra, testar os cupons e fazer login como administrador e cliente e verificar suas telas.
+Os testes implementados até o momento foram:
+
+- Adicionar e remover os itens do carrinho
+- Finalizar compra, testar os cupons
+- Fazer login como administrador e cliente e verificar suas telas.
+- Cadastrar novos usuários (mas não salva ainda)
 
 ### Resultado dos Testes
 
@@ -102,7 +107,9 @@ No diretório Milestone2 usar os seguintes comandos:
 `npm start`
 
 Na pasta data contém dois arquivos: cupons.js e users.js
+
 No arquivo user.js você pode verificar os dados para login de cliente e admin.
+
 No arquivo cupons,js você pode verificar os cupons disponíveis para testar como a funcionalidade extra implementada.
 
 ### Problemas Encontrados
@@ -112,3 +119,4 @@ TODO: Criar a página admin e suas funções
 ### Comentarios
 
 O código foi todo produzido utilizando o bundle disponível pelo CRA em conjunto de alguns itens da MUI, no futuro pretendemos mudar toda a UI para o estilo Material
+A tela de Administrador foi criada, mas ainda não é possível interagir com os itens e os usuários já cadastrados.
