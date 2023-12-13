@@ -112,7 +112,7 @@ No diretório Milestone3 usar os seguintes comandos:
 Existem 2 usuários previamente cadastrados:
 
 Administrador: 
-- Email: aadmin_teste@email.com Senha: admin
+- Email: admin_teste@email.com Senha: admin
 
 Cliente:
 - Email: cliente_teste@email.com Senha: cliente
