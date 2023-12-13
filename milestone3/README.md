@@ -93,6 +93,7 @@ Os testes a serem implementados são:
 - Editar usuários (promover usuário)
 - Verificar se após um compra/venda o estoque se altera
 - Adicionar um novo produto
+  - OBS: para adicionar a imagem ao produto, você deve colocar a imagem na pasta [src/assets/Produtos](../milestone3/src/assets/Produtos), e colocar o nome_da_imagem.png no campo _image name_
 - Remover algum produto
 - Tentar comprar um produto com maior quantidade que o estoque
 - Verificar se quando um produto acaba no estoque, ele é removido
