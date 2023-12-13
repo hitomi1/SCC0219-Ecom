@@ -82,15 +82,20 @@ Neste momento, será possível para o usuário indicar o número do cartão de c
 
 Os testes a serem implementados são:
 
-- Testear as barras de navegação.
+- Testar as barras de navegação.
 - Visualizar a página de produtos como visitante (sem login)
 - Registrar novo usuário / Criar conta
 - Adicionar e remover os itens do carrinho
 - Finalizar compra
-- Testar os cupons
-- Fazer login como administrador e cliente e verificar suas telas.
+- Criar cumpom de desconto
+- Testar os cupons de desconto
+- Fazer login como administrador/cliente e verificar suas telas.
 - Editar usuários (promover usuário)
 - Verificar se após um compra/venda o estoque se altera
+- Adicionar um novo produto
+- Remover algum produto
+- Tentar comprar um produto com maior quantidade que o estoque
+- Verificar se quando um produto acaba no estoque, ele é removido
 
 ### Resultado dos Testes
 
@@ -103,6 +108,14 @@ No diretório Milestone3 usar os seguintes comandos:
 `npm install`
 
 `npm start`
+
+Existem 2 usuários previamente cadastrados:
+
+Administrador: 
+- Email: aadmin_teste@email.com Senha: admin
+
+Cliente:
+- Email: cliente_teste@email.com Senha: cliente
 
 ### Problemas Encontrados
 
